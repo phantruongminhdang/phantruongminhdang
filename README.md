@@ -1,7 +1,7 @@
 ## About me
 - 🏫 I'm currently a student at FPT University - Ho Chi Minh City Campus
 - 📖 My major is Software Engineering
-- 👀 I’m interested in coding, cooking, gaming and everything.
+- 👀 I’m interested in coding, gaming, listening to music and everything.
 - 💞️ I don't have a quote, still breathing makes me stronger everyday.
 - 🎁 Thank you for your time and attention if you are still reading this profile.
 ## Tech Stack
@@ -14,9 +14,11 @@
  ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ### Backend:
  ![.Net](https://img.shields.io/badge/.NET-%23323330?style=for-the-badge&logo=.net&logoColor=white) 
-  ![API](https://img.shields.io/badge/API-%23323330?style=for-the-badge&logo=fastapi&logoColor=white)
+ ![API](https://img.shields.io/badge/API-%23323330?style=for-the-badge&logo=fastapi&logoColor=white)
+ ![Springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ### Frontend:
-  ![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+ ![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+ ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ### Framework/Library:
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ### Design/Visual Tools
