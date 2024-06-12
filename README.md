@@ -15,7 +15,9 @@
 ### Backend:
  ![.Net](https://img.shields.io/badge/.NET-%23323330?style=for-the-badge&logo=.net&logoColor=white) 
   ![API](https://img.shields.io/badge/API-%23323330?style=for-the-badge&logo=fastapi&logoColor=white)
- ### Framework/Library:
+### Frontend:
+  ![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+### Framework/Library:
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ### Design/Visual Tools
  ![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=white) 
