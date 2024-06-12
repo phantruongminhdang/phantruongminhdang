@@ -22,7 +22,7 @@
  ![Canva](https://img.shields.io/badge/canva-%23323330.svg?style=for-the-badge&logo=canva&logoColor=white)
 ### Database/State
  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-%23323330?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
- ![MySQL]((https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue))
+ ![MySQL](https://shields.io/badge/My%20SQL-%23323330?logo=mysql&style=for-the-badge&logoColor=white)
 ### Web Hosting
  ![Github Pages](https://img.shields.io/badge/Github%20Pages-%23323330?style=for-the-badge&logo=github%20pages&logoColor=white) 
 ### Version Control
