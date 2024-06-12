@@ -15,7 +15,7 @@
 ### Backend:
  ![.Net](https://img.shields.io/badge/.NET-%23323330?style=for-the-badge&logo=.net&logoColor=white) 
  ![API](https://img.shields.io/badge/API-%23323330?style=for-the-badge&logo=fastapi&logoColor=white)
- ![Springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+ ![Springboot](https://img.shields.io/badge/SpringBoot-%23323330?style=for-the-badge&logo=Spring&logoColor=white)
 ### Frontend:
  ![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
  ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
