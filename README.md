@@ -27,9 +27,12 @@
  ![MySQL](https://shields.io/badge/My%20SQL-%23323330?logo=mysql&style=for-the-badge&logoColor=white)
 ### Web Hosting
  ![Github Pages](https://img.shields.io/badge/Github%20Pages-%23323330?style=for-the-badge&logo=github%20pages&logoColor=white) 
+ ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+ ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ### Version Control
  ![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=white) 
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+ ![Gitlab](https://img.shields.io/badge/gitlab-%23121011.svg?style=for-the-badge&logo=gitlab)
 =======
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px" height="50px"> About Some Stats
 <div align="center">
